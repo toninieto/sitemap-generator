@@ -24,6 +24,7 @@ fun main(args : Array<String>) {
             val sitemapOutputFile = args[2]
 
             val sitemap = Sitemap()
+
             val sitemapCreated = sitemap.createSitemapFileFromSiteURL(siteURL, sitemapOutputFile).component1()
             if (sitemapCreated) {
                 response = "The sitemap was created successfully"
@@ -31,4 +32,4 @@ fun main(args : Array<String>) {
         }
     }
     println(response)
-}
+*
