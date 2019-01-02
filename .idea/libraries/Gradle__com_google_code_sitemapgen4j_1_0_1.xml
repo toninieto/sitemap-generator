@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.code:sitemapgen4j:1.0.1">
+    <CLASSES>
+      <root url="jar:///opt/gradle/gradle-3.4.1/caches/modules-2/files-2.1/com.google.code/sitemapgen4j/1.0.1/31581594f4285039ea261946583b925293893f1a/sitemapgen4j-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///opt/gradle/gradle-3.4.1/caches/modules-2/files-2.1/com.google.code/sitemapgen4j/1.0.1/78e552609d54f04a003fb6b520c552f42ec1e9ee/sitemapgen4j-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
